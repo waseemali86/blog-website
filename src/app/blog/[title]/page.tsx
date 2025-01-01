@@ -44,7 +44,7 @@ export default async function BlogPost({ params  } : { params: IParams}) {
     //   </div>
     // </div>
     <div>
-    <h1>{query.summary}</h1>
+    {/* <h1>{query.summary}</h1> */}
     </div>
   );
 }
